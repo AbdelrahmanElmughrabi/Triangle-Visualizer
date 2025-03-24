@@ -1,4 +1,4 @@
-```
+
 # ASCII Triangle Drawer
 
 A Java program that visualizes triangles using ASCII characters in a console window.
