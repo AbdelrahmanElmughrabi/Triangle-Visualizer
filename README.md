@@ -17,7 +17,7 @@ This program allows users to draw triangles by:
 3. The program will display the triangle using ASCII characters
 4. To exit, enter 0,0 for all three points
 
-### Example Input
+### Example Input (To see the triagnle)
 ```
 Enter x1
 5
