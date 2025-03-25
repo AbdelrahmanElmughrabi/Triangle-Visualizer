@@ -1,7 +1,8 @@
 
-# ASCII Triangle Drawer
+# ASCII Triangle Drawer/Triangle-Visualizer (OLD)
 
 A Java program that visualizes triangles using ASCII characters in a console window.
+This was one of my learning process projects that I made to master the fundamentals of java.
 
 ## Description
 
